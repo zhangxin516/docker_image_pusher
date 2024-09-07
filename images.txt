@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.30.0
+calico/node:v3.25.0
