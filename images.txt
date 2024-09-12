@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.25.0
+k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
