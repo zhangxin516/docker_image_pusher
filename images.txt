@@ -1,1 +1,1 @@
-lfy_k8s_images/ingress-nginx-controller:v0.46.0
+ingress-nginx-controller:v0.46.0
